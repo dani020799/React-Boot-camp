@@ -1,0 +1,8 @@
+{
+     "name": "react-boot-camp",
+    "private": true,
+    "workspaces": [
+      "missions/*",
+      "missions/*/*"
+    ]
+}
